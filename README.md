@@ -72,3 +72,6 @@ This **Customer Sentiment Analysis** project demonstrates the potential of **Mac
 
 ---
 
+This version tailors the description to focus on **Customer Sentiment Analysis** while maintaining the structure and content related to the NLP project. It includes relevant details on algorithms used, a comparative analysis table, and the necessary acknowledgments for faculty members involved in the course.
+
+
