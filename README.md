@@ -28,7 +28,7 @@ Their guidance and support have been invaluable throughout this project.
 ## 📰 Customer Sentiment Analysis using Natural Language Processing
 
 ### Project Abstract
-The Sentiment Analysis System leverages **Natural Language Processing (NLP) and Machine Learning** to classify customer reviews into sentiments such as **positive, negative, and neutral.** By analyzing textual data, the system provides businesses with valuable insights into customer satisfaction, emerging issues, and overall brand perception.
+The **Sentiment Analysis** System leverages **Natural Language Processing (NLP) and Machine Learning** to classify customer reviews into sentiments such as **positive, negative, and neutral.** By analyzing textual data, the system provides businesses with valuable insights into customer satisfaction, emerging issues, and overall brand perception.
 
 The framework includes **text preprocessing** (tokenization, stop-word removal, and lemmatization), feature extraction, and classification using multiple machine learning models. Automating sentiment classification enhances decision-making by offering real-time feedback, reducing manual analysis efforts, and ensuring consistency in sentiment evaluation.
 
