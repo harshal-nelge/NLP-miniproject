@@ -53,7 +53,7 @@ The framework includes **text preprocessing** (tokenization, stop-word removal, 
 ---
 
 ## **Comparative Analysis**
-The comparative analysis of different models highlights their effectiveness in classifying news articles into the correct category. Below are the summarized performance metrics for various models tested:
+The comparative analysis of different models highlights their effectiveness in classifying customer reviews into the correct category. Below are the summarized performance metrics for various models tested:
 
 | **Model Type**           | **Accuracy (%)** | **Precision (%)** | **Recall (%)** | **F1-Score (%)** |
 |--------------------------|------------------|------------------|--------------|--------------|
